@@ -1,0 +1,45 @@
+.room-form-container {
+    width: 40%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.room-form-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.room-form-container form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.room-form-container input,
+.room-form-container select {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.room-form-container button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.room-form-container button:hover {
+    background-color: #45a049;
+}
+
+.availability-checkbox label {
+    font-size: 16px;
+}
+
+.availability-checkbox input {
+    margin-right: 10px;
+}

@@ -1,0 +1,98 @@
+.client-console-container {
+    padding: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+}
+
+/* Header */
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2rem;
+    color: #333;
+}
+
+/* Client List */
+.client-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Client Card */
+.client-item {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px 0;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.client-item:hover {
+    border: 1px solid #007bff; 
+    background-color: #f0f7ff; /* Light blue hover */
+}
+
+/* Text inside client card */
+.client-details {
+    flex: 1;
+    color: #333;
+}
+
+.client-details p {
+    margin: 5px 0;
+}
+
+/* Button container */
+.client-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+/* General button styles */
+.client-buttons button {
+    padding: 8px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    font-weight: 500;
+    font-size: 1rem;
+    color: white;
+}
+
+/* Update button (green) */
+.client-buttons button.update-btn {
+    background-color: #28a745;
+}
+
+.client-buttons button.update-btn:hover {
+    background-color: #218838;
+}
+
+/* Delete button (red) */
+.client-buttons button.delete-btn {
+    background-color: #dc3545;
+}
+
+.client-buttons button.delete-btn:hover {
+    background-color: #c82333;
+}
+
+/* Miscellaneous states */
+.loading,
+.error {
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+}
+
+.no-clients-message {
+    text-align: center;
+    font-size: 18px;
+    color: #555;
+}

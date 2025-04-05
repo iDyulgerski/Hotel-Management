@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|f:\\itcareerproject3\\hotelmanagement\\hotelmanagement\\hotelmanagement\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|solutionrelative:hotelmanagement\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|f:\\itcareerproject3\\hotelmanagement\\hotelmanagement\\hotelmanagement\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|solutionrelative:hotelmanagement\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|f:\\itcareerproject3\\hotelmanagement\\hotelmanagement\\hotelmanagement\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|solutionrelative:hotelmanagement\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|f:\\itcareerproject3\\hotelmanagement\\hotelmanagement\\hotelmanagement\\dtos\\reservationcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|solutionrelative:hotelmanagement\\dtos\\reservationcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|f:\\itcareerproject3\\hotelmanagement\\hotelmanagement\\hotelmanagement\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|solutionrelative:hotelmanagement\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|f:\\itcareerproject3\\hotelmanagement\\hotelmanagement\\hotelmanagement\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|solutionrelative:hotelmanagement\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|f:\\itcareerproject3\\hotelmanagement\\hotelmanagement\\hotelmanagement\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|solutionrelative:hotelmanagement\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|f:\\itcareerproject3\\hotelmanagement\\hotelmanagement\\hotelmanagement\\models\\reservationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|solutionrelative:hotelmanagement\\models\\reservationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|f:\\itcareerproject3\\hotelmanagement\\hotelmanagement\\hotelmanagement\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|solutionrelative:hotelmanagement\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|f:\\itcareerproject3\\hotelmanagement\\hotelmanagement\\hotelmanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|solutionrelative:hotelmanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|f:\\itcareerproject3\\hotelmanagement\\hotelmanagement\\hotelmanagement\\dtos\\usercreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|solutionrelative:hotelmanagement\\dtos\\usercreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|f:\\itcareerproject3\\hotelmanagement\\hotelmanagement\\hotelmanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|solutionrelative:hotelmanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|f:\\itcareerproject3\\hotelmanagement\\hotelmanagement\\hotelmanagement\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|solutionrelative:hotelmanagement\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|f:\\itcareerproject3\\hotelmanagement\\hotelmanagement\\hotelmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDD2D04-F9CB-4E74-BD42-E029614342B7}|hotelManagement\\hotelManagement.csproj|solutionrelative:hotelmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservationCreationDto.cs",
+              "DocumentMoniker": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\DTOs\\ReservationCreationDto.cs",
+              "RelativeDocumentMoniker": "hotelManagement\\DTOs\\ReservationCreationDto.cs",
+              "ToolTip": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\DTOs\\ReservationCreationDto.cs",
+              "RelativeToolTip": "hotelManagement\\DTOs\\ReservationCreationDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:36:12.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\models\\Client.cs",
+              "RelativeDocumentMoniker": "hotelManagement\\models\\Client.cs",
+              "ToolTip": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\models\\Client.cs",
+              "RelativeToolTip": "hotelManagement\\models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T15:05:29.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "hotelManagement\\Services\\ReservationService.cs",
+              "ToolTip": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\Services\\ReservationService.cs*",
+              "RelativeToolTip": "hotelManagement\\Services\\ReservationService.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwDwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:55:14.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "hotelManagement\\Controllers\\ClientController.cs",
+              "ToolTip": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "hotelManagement\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:54:50.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "hotelManagement\\Controllers\\ReservationController.cs",
+              "ToolTip": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "hotelManagement\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:54:10.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\models\\Reservation.cs",
+              "RelativeDocumentMoniker": "hotelManagement\\models\\Reservation.cs",
+              "ToolTip": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\models\\Reservation.cs",
+              "RelativeToolTip": "hotelManagement\\models\\Reservation.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAywCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:36:50.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReservationClient.cs",
+              "DocumentMoniker": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\models\\ReservationClient.cs",
+              "RelativeDocumentMoniker": "hotelManagement\\models\\ReservationClient.cs",
+              "ToolTip": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\models\\ReservationClient.cs",
+              "RelativeToolTip": "hotelManagement\\models\\ReservationClient.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T14:36:49.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "hotelManagement\\Controllers\\RoomController.cs",
+              "ToolTip": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "hotelManagement\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:15:36.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserCreationDto.cs",
+              "DocumentMoniker": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\DTOs\\UserCreationDto.cs",
+              "RelativeDocumentMoniker": "hotelManagement\\DTOs\\UserCreationDto.cs",
+              "ToolTip": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\DTOs\\UserCreationDto.cs",
+              "RelativeToolTip": "hotelManagement\\DTOs\\UserCreationDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:10:15.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "hotelManagement\\Services\\RoomService.cs",
+              "ToolTip": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\Services\\RoomService.cs",
+              "RelativeToolTip": "hotelManagement\\Services\\RoomService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:14:16.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "hotelManagement\\Services\\UserService.cs",
+              "ToolTip": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\Services\\UserService.cs",
+              "RelativeToolTip": "hotelManagement\\Services\\UserService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAswF0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:02:12.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "hotelManagement\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\Controllers\\UserController.cs",
+              "RelativeToolTip": "hotelManagement\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAwwHkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:00:34.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\models\\User.cs",
+              "RelativeDocumentMoniker": "hotelManagement\\models\\User.cs",
+              "ToolTip": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\models\\User.cs",
+              "RelativeToolTip": "hotelManagement\\models\\User.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwDIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:55:11.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\Program.cs",
+              "RelativeDocumentMoniker": "hotelManagement\\Program.cs",
+              "ToolTip": "F:\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\Program.cs",
+              "RelativeToolTip": "hotelManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:40:14.654Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
