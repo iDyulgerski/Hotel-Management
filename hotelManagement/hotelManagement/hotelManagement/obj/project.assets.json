@@ -2794,11 +2794,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IT career\\XIII modul\\LatestStableBeforeIBlowItUp\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\hotelManagement.csproj",
+      "projectUniqueName": "D:\\IT career\\XIII modul\\Hotel-Management\\hotelManagement\\hotelManagement\\hotelManagement\\hotelManagement.csproj",
       "projectName": "hotelManagement",
-      "projectPath": "D:\\IT career\\XIII modul\\LatestStableBeforeIBlowItUp\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\hotelManagement.csproj",
+      "projectPath": "D:\\IT career\\XIII modul\\Hotel-Management\\hotelManagement\\hotelManagement\\hotelManagement\\hotelManagement.csproj",
       "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-      "outputPath": "D:\\IT career\\XIII modul\\LatestStableBeforeIBlowItUp\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\obj\\",
+      "outputPath": "D:\\IT career\\XIII modul\\Hotel-Management\\hotelManagement\\hotelManagement\\hotelManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",

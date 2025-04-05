@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8+A6JSUfz849/wFpmhOpvq5yqFLPqS9MWOHVpFb1i6e7CY+Z+dZqIV1qNbXSQIcF+MUxepkf5H3BtjDqotGGZQ==",
+  "dgSpecHash": "/o3FpI95+y6IXdWENnK3At650zXoJ+YIsbmVp880udbCiuIu336QpprNjvaU3R6nFuBVp2nlHPBW5bu4ErLSsg==",
   "success": true,
-  "projectFilePath": "D:\\IT career\\XIII modul\\LatestStableBeforeIBlowItUp\\itCareerProject3\\hotelManagement\\hotelManagement\\hotelManagement\\hotelManagement.csproj",
+  "projectFilePath": "D:\\IT career\\XIII modul\\Hotel-Management\\hotelManagement\\hotelManagement\\hotelManagement\\hotelManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ivan\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Ivan\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",
